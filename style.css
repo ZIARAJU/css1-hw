@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+   
+}
+a{
+    font-size: 11.2px;
+    color:#1dbf73;
+    font-family: arial;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1{
+    font-family: arial;
+    font-size: 40px;
+    color:#404145;
+}
+
+span{
+    font-weight: bold;
+}
+p{
+    
+    padding: 10px 200px;
+    margin: 10px auto;
+}
